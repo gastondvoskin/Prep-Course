@@ -1,0 +1,12 @@
+for es un bucle que evalúa una condición determinada hasta que le indiquemos que deje de hacerlo.
+cada vez que hace esta evaluación, si el resultado es true, hace lo que le hayamos indicado. se compone de
+tres elementos: una variable, una condición y un contador que va aumentando el número de la variable para que
+en determinado momento la condición llegue a ser false.
+
+&& se traduce como "o". Es un operador lógico que indica que para que una condición sea true,
+todas las expresiones a evaluar tienen que ser true.
+
+|| se traduce como "y". Es un operador lógico que indica que para que una condición sea true,
+alcanza con que una sola de las expresiones sea true.
+
+! se traduce como "no". Es un operador que indica lo opuesto de una expresión determinada. 

@@ -1,0 +1,4 @@
+Un array es un contenedor de elementos que pueden tener distintos tipos de datos.
+Por ejemplo, un array puede contener distintos strings con los nombres de personas,
+numeros ordenados, booleanos, funciones, o incluso otros arrays.
+Array se traduce como arreglo. 
