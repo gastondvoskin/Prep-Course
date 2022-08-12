@@ -1,0 +1,32 @@
+* Objetos
+* Propiedades
+* Métodos
+* Bucle `for…in`
+* Notación de puntos vs notación de corchetes
+
+Objetos
+Los objetos son contenedores de todo lo que se encuentra dentro de Javascript.
+Por ejemplo, window es el objeto global inicial. Un objeto tiene propiedades.
+
+Propiedades
+Las propiedades son los elementos contenidos dentro de un objeto. Cada propiedad
+se nombra con un key y cada key tiene asignado un value.
+
+Métodos
+Los métodos son funciones de un objeto.
+
+Bucle 'for...in'
+Es un bucle que se usa para recorrer un objeto, debido a que un objeto no tiene keys nombradas
+de antemano con enteros ordenados como las array, y por eso no se puede iterar con un
+bucle estandar for.
+
+Notación de puntos vs notación de corchetes
+La notación de puntos (dot notation) accede a una propiedad de un objeto mediante un punto,
+con la siguiente syntax:
+nombreObjeto.key
+La notación de corchetes (brackets notation) accede a una propiedad de un objeto mediante
+corchetes, con la siguiente syntax:
+nombreObjeto['key']
+Ambas se usan para accede a una propiedad de un objeto. Suele usarse más la dot notation
+por ser más práctica y abreviada, pero la brackets notation se usa para acceder a Propiedades
+que son variables. 
